@@ -1,2 +1,2 @@
-# ChatUI
-A Chatbot UI
+# Chatbot UI
+in a browser
