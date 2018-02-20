@@ -228,7 +228,7 @@ Messages
     -webkit-transform-origin: 0 0;
     transform-origin: 0 0;
     -webkit-animation: bounce 500ms linear both;
-    animation: bounce 500ms linear both;
+    animation: bounce 0ms linear both;
 }
 
 .messages .message.loading::before {
