@@ -35,7 +35,7 @@ function insertMessage() {
     updateScrollbar();
     setTimeout(function() {
         fakeMessage();
-    }, 1000 + (Math.random() * 20) * 100);
+    }, 1000 + (Math.random() * 10) * 100);
 }
 
 $('.message-submit').click(function() {
